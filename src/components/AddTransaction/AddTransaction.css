@@ -1,0 +1,28 @@
+label {
+  display: inline-block;
+  margin: 10px 0;
+}
+
+input[type="text"],
+input[type="number"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 3px;
+  border-color: rgb(221, 221, 221);
+  font-size: 16px;
+}
+
+.btn {
+  cursor: pointer;
+  margin: 10px 0;
+  width: 100%;
+  font-size: 18px;
+  box-shadow: var(--box-shadow);
+  background-color: rgb(165, 108, 219);
+  padding: 10px;
+  color: white;
+  border-radius: 3px;
+  border: 0;
+}
