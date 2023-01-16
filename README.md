@@ -2,9 +2,7 @@
 
 Simple expense tracker, currently without backend.
 
-## Available Scripts
-
-In the project directory, you can run:
+## How to run it?
 
 ### `npm start`
 
